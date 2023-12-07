@@ -18,3 +18,6 @@ A simple Snake game implemented in JavaScript using HTML5 Canvas.
 > [!NOTE]
 > Clone the repository to your local machine: 
 > Open the index.html file in your web browser to start playing!
+
+## Learning Resource
+https://www.youtube.com/watch?v=Je0B3nHhKmM&list=PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1&index=90
